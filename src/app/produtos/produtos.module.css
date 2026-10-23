@@ -1,0 +1,15 @@
+.page{
+    display: flex;
+    flex-direction: column;
+    width: auto;
+    height: 100%;
+    border: 40px solid blue;
+}
+
+.table{
+    border: 2px solid aqua;
+}
+
+.thead tr{
+    border-top: 2px solid red;
+}
